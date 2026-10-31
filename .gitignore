@@ -1,0 +1,17 @@
+# Конфиденциальные данные и переменные окружения
+.env
+
+# Служебные файлы Python и Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Логи и временные файлы
+*.log
+.DS_Store
